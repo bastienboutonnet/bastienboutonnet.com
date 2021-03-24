@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastien Boutonnet</title>
-    <link>https://www.bastienboutonnet.com/</link>
+    <link>https://bastienboutonnet.github.io/bastienboutonnet_website/</link>
     <description>Recent content on Bastien Boutonnet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://www.bastienboutonnet.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://bastienboutonnet.github.io/bastienboutonnet_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documenting with dbt-sugar</title>
-      <link>https://www.bastienboutonnet.com/posts/post-1/</link>
+      <link>https://bastienboutonnet.github.io/bastienboutonnet_website/posts/post-1/</link>
       <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
       
-      <guid>https://www.bastienboutonnet.com/posts/post-1/</guid>
+      <guid>https://bastienboutonnet.github.io/bastienboutonnet_website/posts/post-1/</guid>
       <description>Coming soon</description>
     </item>
     
     <item>
       <title>Hello Hello World</title>
-      <link>https://www.bastienboutonnet.com/homepage/</link>
+      <link>https://bastienboutonnet.github.io/bastienboutonnet_website/homepage/</link>
       <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
       
-      <guid>https://www.bastienboutonnet.com/homepage/</guid>
+      <guid>https://bastienboutonnet.github.io/bastienboutonnet_website/homepage/</guid>
       <description>Welcome to my webiste. I&amp;rsquo;m Bastien Boutonnet, a senior data scientist at TripActions and an Amsterdam resident.
 I like to write and maintain open-source projects, which I mostly do under the bitpicky umbrella.
 When I don&amp;rsquo;t write code, I produce music under several aliases one of which is accuraat and play other people&amp;rsquo;s music to dancing people in clubs (well, before there was a pandemic that is).
