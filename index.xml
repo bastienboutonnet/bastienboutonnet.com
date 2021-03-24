@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Hello World on Bastien Boutonnet</title>
+    <title>Bastien Boutonnet</title>
     <link>https://bastienboutonnet.github.io/bastienboutonnet.com/</link>
-    <description>Recent content in Hello Hello World on Bastien Boutonnet</description>
+    <description>Recent content on Bastien Boutonnet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://bastienboutonnet.github.io/bastienboutonnet.com/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Hello Hello World2</title>
+      <title>Hello Hello World</title>
       <link>https://bastienboutonnet.github.io/bastienboutonnet.com/homepage/</link>
       <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
       
