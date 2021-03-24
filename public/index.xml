@@ -2,41 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastien Boutonnet</title>
-    <link>https://bastienboutonnet.github.io/</link>
+    <link>https://bastienboutonnet.github.io/bastienboutonnet.com/</link>
     <description>Recent content on Bastien Boutonnet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://bastienboutonnet.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Documenting with dbt-sugar</title>
-      <link>https://bastienboutonnet.github.io/posts/post-1/</link>
-      <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
-      
-      <guid>https://bastienboutonnet.github.io/posts/post-1/</guid>
-      <description>Coming soon</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://bastienboutonnet.github.io/bastienboutonnet.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hello World</title>
-      <link>https://bastienboutonnet.github.io/homepage/</link>
+      <link>https://bastienboutonnet.github.io/bastienboutonnet.com/</link>
       <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
       
-      <guid>https://bastienboutonnet.github.io/homepage/</guid>
+      <guid>https://bastienboutonnet.github.io/bastienboutonnet.com/</guid>
       <description>Welcome to my webiste. I&amp;rsquo;m Bastien Boutonnet, a senior data scientist at TripActions and an Amsterdam resident.
 I like to write and maintain open-source projects, which I mostly do under the bitpicky umbrella.
 When I don&amp;rsquo;t write code, I produce music under several aliases one of which is accuraat and play other people&amp;rsquo;s music to dancing people in clubs (well, before there was a pandemic that is).
 THE SOCIALS  Twitter: @B_superhero Sometimes I tweet interesting stuff GitHub: @bastienboutonnet For my personal projects.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://bastienboutonnet.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bastienboutonnet.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>
