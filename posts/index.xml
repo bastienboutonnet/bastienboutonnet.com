@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bastien Boutonnet</title>
-    <link>https://bastienboutonnet.github.io/bastienboutonnet.com/posts/</link>
+    <link>https://bastienboutonnet.github.io/posts/</link>
     <description>Recent content in Posts on Bastien Boutonnet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://bastienboutonnet.github.io/bastienboutonnet.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="https://bastienboutonnet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documenting with dbt-sugar</title>
-      <link>https://bastienboutonnet.github.io/bastienboutonnet.com/posts/post-1/</link>
+      <link>https://bastienboutonnet.github.io/posts/post-1/</link>
       <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
       
-      <guid>https://bastienboutonnet.github.io/bastienboutonnet.com/posts/post-1/</guid>
+      <guid>https://bastienboutonnet.github.io/posts/post-1/</guid>
       <description>Coming soon</description>
     </item>
     
