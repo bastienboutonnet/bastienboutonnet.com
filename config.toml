@@ -1,4 +1,4 @@
-baseURL = "https://www.bastienboutonnet.com/"
+baseURL = "https://bastienboutonnet.github.io/bastienboutonnet.com/"
 languageCode = "en-us"
 title = "Bastien Boutonnet"
 theme = "archie"
@@ -45,9 +45,9 @@ weight = 1
 [[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 3
