@@ -4,10 +4,9 @@ date: 2021-02-12T19:36:58+01:00
 draft: false
 ---
 
-Welcome to my webiste.
 I'm Bastien Boutonnet, a senior data scientist at [TripActions](https://tripactions.com/) and an Amsterdam resident.
 
-I like to write and maintain open-source projects, which I mostly do under the [bitpicky](http://github.com/bitpicky) umbrella.
+I like to build and maintain open-source projects and tools for data practitioners, which I mostly do under the [bitpicky](http://github.com/bitpicky) umbrella.
 
 When I don't write code, I produce music under several aliases one of which is [accuraat](http://accuraatmusic.nl/) and play other people's music to dancing people in clubs (well, before there was a pandemic that is).
 
