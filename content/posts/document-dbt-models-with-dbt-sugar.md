@@ -1,16 +1,16 @@
 ---
 title: "Document dbt Models the easy way with dbt-sugar"
 date: 2021-03-26T14:28:18+01:00
-draft: true
+draft: false
 ---
-**NOTE:** This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
-
-* [Contribute on GitHub](https://github.com/bitpicky/dbt-sugar)
-* Become part of the community by joining [our Discord server](https://discord.com/invite/cQB49ejbCA)
 
 Would you like your documentation workflow to look something like this? Now it's possible with [dbt-sugar](https://bitpicky.gitbook.io/dbt-sugar/)
 
-![documenting a model with dbt-sugar](document_fct_orders.gif)
+![documenting a model with dbt-sugar](/img/document_fct_orders.gif)
+**NOTE:** This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
+
+- [Contribute on GitHub](https://github.com/bitpicky/dbt-sugar)
+- Become part of the community by joining [our Discord server](https://discord.com/invite/cQB49ejbCA)
 
 If you're a user of [dbt](getdbt.com) chances are you're already are on a great path to making your data team successful at iterating and serving analytical value to your business. If you don't, it's not too late **especially if you don't have an ELT/ETL workflow that let's your data people (be it analysts, data engineers or data scientists) only focus on writing a SQL `select` statement**.
 
@@ -47,11 +47,11 @@ If you attended [Coalesce](https://www.getdbt.com/coalesce) last December, you w
 
 In short, dbt-sugar will guide you through documenting a dbt model in your dbt project. You simply call the `dbt-sugar doc` task, point it to your model and _voila_ you get an experience such as the one below:
 
-![documenting a model with dbt-sugar](document_fct_orders.gif)
+![documenting a model with dbt-sugar](/img/document_fct_orders.gif)
 
 You go from an empty `schema.yml` to a nicely populated one like this
 
-![automatically populated schema.yml](fct_orders_schema.png)
+![automatically populated schema.yml](/img/fct_orders_schema.png)
 
 #### **But WAIT, you only wrote documentation for the `order_date` column, how do you get the `order_id` column to be magically filled in??**
 
@@ -61,7 +61,7 @@ Good catch! Cool isn't it? **The main advantage of using dbt-sugar is that it kn
 
 Yep! No point adding a test if it fails already right? This would lead you to deploy your model, only to have the model fail its assumptions on the next run. When you ask for a test to be added on a column, dbt-sugar will run it for you. If it passes, great it gets added, if it fails you get a message that one of your assumptions isn't met and you can fix it before it ends up in the code base and no-one will ever know!
 
-![test addition summary output](test_summary_output.png)
+![test addition summary output](/img/test_summary_output.png)
 In this case, the unique test **failed** so it was not added and `dbt-sugar` told you about this so you don't have any surprises.
 
 ### What else does dbt-sugar do for you?
@@ -70,7 +70,7 @@ In this case, the unique test **failed** so it was not added and `dbt-sugar` tol
 - Allows you to re-document **already documented columns** and add missing tests or tags
 - Gives you a nice **audit** summary. For example if you do `dbt-sugar audit` on your dbt model you will get something that looks like this:
 
-![dbt sugar project-level audit summary](dbt_sugar_audit_task.png)
+![dbt sugar project-level audit summary](/img/dbt_sugar_audit_task.png)
 
 ## Want to start using it?
 
