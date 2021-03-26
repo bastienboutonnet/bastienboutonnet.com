@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Bastien Boutonnet"
 theme = "archie"
+googleAnalytics = "UA-10219575-2"
 
 # Code Highlight
 pygmentsstyle = "monokai"
