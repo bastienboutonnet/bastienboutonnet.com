@@ -5,9 +5,9 @@
 
 	<meta property="og:image" content=""/>
 	<meta property="og:title" content="Document dbt Models the easy way with dbt-sugar" />
-<meta property="og:description" content="NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
- Contribute on GitHub Become part of the community by joining our Discord server  Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with dbt-sugar
-If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business." />
+<meta property="og:description" content="Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with dbt-sugar
+NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
+ Contribute on GitHub Become part of the community by joining our Discord server  If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/document-dbt-models-with-dbt-sugar/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-03-26T14:28:18&#43;01:00" />
@@ -15,9 +15,9 @@ If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great pa
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Document dbt Models the easy way with dbt-sugar"/>
-<meta name="twitter:description" content="NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
- Contribute on GitHub Become part of the community by joining our Discord server  Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with dbt-sugar
-If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business."/>
+<meta name="twitter:description" content="Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with dbt-sugar
+NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
+ Contribute on GitHub Become part of the community by joining our Discord server  If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business."/>
 <script src="/js/feather.min.js"></script>
 	
 	<link href="/css/fonts.css" rel="stylesheet">
@@ -49,13 +49,13 @@ If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great pa
 		
 
 		<section class="body">
-			<p><strong>NOTE:</strong> This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.</p>
+			<p>Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with <a href="https://bitpicky.gitbook.io/dbt-sugar/">dbt-sugar</a></p>
+<p><img src="/img/document_fct_orders.gif" alt="documenting a model with dbt-sugar">
+<strong>NOTE:</strong> This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.</p>
 <ul>
 <li><a href="https://github.com/bitpicky/dbt-sugar">Contribute on GitHub</a></li>
 <li>Become part of the community by joining <a href="https://discord.com/invite/cQB49ejbCA">our Discord server</a></li>
 </ul>
-<p>Would you like your documentation workflow to look something like this? Now it&rsquo;s possible with <a href="https://bitpicky.gitbook.io/dbt-sugar/">dbt-sugar</a></p>
-<p><img src="document_fct_orders.gif" alt="documenting a model with dbt-sugar"></p>
 <p>If you&rsquo;re a user of <a href="getdbt.com">dbt</a> chances are you&rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business. If you don&rsquo;t, it&rsquo;s not too late <strong>especially if you don&rsquo;t have an ELT/ETL workflow that let&rsquo;s your data people (be it analysts, data engineers or data scientists) only focus on writing a SQL <code>select</code> statement</strong>.</p>
 <p>If you don&rsquo;t know what dbt is, no one better than the makers of the tool can speak about it and here are places where you can <strong>learn more about the tool</strong>, as well as ways in which a growing number of data teams are using it across the world.</p>
 <ul>
@@ -79,14 +79,14 @@ If you&rsquo;re a user of dbt chances are you&rsquo;re already are on a great pa
 <p>If you attended <a href="https://www.getdbt.com/coalesce">Coalesce</a> last December, you will have heard my colleague <a href="https://www.linkedin.com/in/jflairie">Jeff</a> and I talk about the kind of tools that our team at <a href="https://tripactions.com/">TripActions</a> developed to make our workflows more efficient and less human-error prone (watch the video <a href="https://www.youtube.com/watch?v=HFNZGZqr5QM&amp;t=411s">Supercharging your data team</a> on dbt&rsquo;s YouTube channel). One of the tools our amazing data engineer <a href="https://www.linkedin.com/in/virginia-l%C3%B3pez-gil-p%C3%A9rez-3b86ab101/">Virginia</a> built is a lot like dbt-sugar &ndash;that&rsquo;s kinda where the inspiration for it comes from and I coincidentally happen to maintain Virginia in our downtime under the <a href="https://github.com/bitpicky">bitpicky</a> open source organisation umbrella I started a few months ago.</p>
 <h3 id="ok-show-me-what-it-does-already">Ok show me what it does already!</h3>
 <p>In short, dbt-sugar will guide you through documenting a dbt model in your dbt project. You simply call the <code>dbt-sugar doc</code> task, point it to your model and <em>voila</em> you get an experience such as the one below:</p>
-<p><img src="document_fct_orders.gif" alt="documenting a model with dbt-sugar"></p>
+<p><img src="/img/document_fct_orders.gif" alt="documenting a model with dbt-sugar"></p>
 <p>You go from an empty <code>schema.yml</code> to a nicely populated one like this</p>
-<p><img src="fct_orders_schema.png" alt="automatically populated schema.yml"></p>
+<p><img src="/img/fct_orders_schema.png" alt="automatically populated schema.yml"></p>
 <h4 id="but-wait-you-only-wrote-documentation-for-the-order_date-column-how-do-you-get-the-order_id-column-to-be-magically-filled-in"><strong>But WAIT, you only wrote documentation for the <code>order_date</code> column, how do you get the <code>order_id</code> column to be magically filled in??</strong></h4>
 <p>Good catch! Cool isn&rsquo;t it? <strong>The main advantage of using dbt-sugar is that it knows about the columns you already documented in all of your other models and it populates it for you</strong>!</p>
 <h4 id="it-runs-the-tests">It runs the tests?</h4>
 <p>Yep! No point adding a test if it fails already right? This would lead you to deploy your model, only to have the model fail its assumptions on the next run. When you ask for a test to be added on a column, dbt-sugar will run it for you. If it passes, great it gets added, if it fails you get a message that one of your assumptions isn&rsquo;t met and you can fix it before it ends up in the code base and no-one will ever know!</p>
-<p><img src="test_summary_output.png" alt="test addition summary output">
+<p><img src="/img/test_summary_output.png" alt="test addition summary output">
 In this case, the unique test <strong>failed</strong> so it was not added and <code>dbt-sugar</code> told you about this so you don&rsquo;t have any surprises.</p>
 <h3 id="what-else-does-dbt-sugar-do-for-you">What else does dbt-sugar do for you?</h3>
 <ul>
@@ -94,7 +94,7 @@ In this case, the unique test <strong>failed</strong> so it was not added and <c
 <li>Allows you to re-document <strong>already documented columns</strong> and add missing tests or tags</li>
 <li>Gives you a nice <strong>audit</strong> summary. For example if you do <code>dbt-sugar audit</code> on your dbt model you will get something that looks like this:</li>
 </ul>
-<p><img src="dbt_sugar_audit_task.png" alt="dbt sugar project-level audit summary"></p>
+<p><img src="/img/dbt_sugar_audit_task.png" alt="dbt sugar project-level audit summary"></p>
 <h2 id="want-to-start-using-it">Want to start using it?</h2>
 <ul>
 <li>dbt-sugar is currently able to talk to <strong>Snowflake</strong> and <strong>Postgres</strong> databases and is extensible to work for most other major databases (feel free to <a href="#want-to-get-involved-in-the-development">get inlvoved if you have access to such other databases</a>).</li>

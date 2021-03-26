@@ -13,9 +13,9 @@
       <pubDate>Fri, 26 Mar 2021 14:28:18 +0100</pubDate>
       
       <guid>/posts/document-dbt-models-with-dbt-sugar/</guid>
-      <description>NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
- Contribute on GitHub Become part of the community by joining our Discord server  Would you like your documentation workflow to look something like this? Now it&amp;rsquo;s possible with dbt-sugar
-If you&amp;rsquo;re a user of dbt chances are you&amp;rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business.</description>
+      <description>Would you like your documentation workflow to look something like this? Now it&amp;rsquo;s possible with dbt-sugar
+NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
+ Contribute on GitHub Become part of the community by joining our Discord server  If you&amp;rsquo;re a user of dbt chances are you&amp;rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business.</description>
     </item>
     
   </channel>
