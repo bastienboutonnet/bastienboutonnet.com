@@ -35,7 +35,7 @@ Why do we skimp so much on something we all recognise the value, joy and enablem
 
 My feeling, and one that I'm sure a lot of people share, is that writing documentation and keeping it up to date kinda sucks. It sucks because it's something else you have to do. It's not a blocker so you don't have to do it in order to make your release work. It sucks because, usually, documentation lives "somewhere else". It sucks because it's nearly impossible to keep it up to date in a predominantly incremental and iterative workflow (the _de facto modus operandi_ for most data practitioners). Even in an awesome tool like dbt, it's somewhere else and not automatically kept up to date. That being said, it's not far at all and dbt offers a great way to [serve this documentation as a webpage out of the box](https://docs.getdbt.com/docs/building-a-dbt-project/documentation) so if you use it, you're already ahead and in a much better place.
 
-## Documenting your dbt projects and keeping it consistent is now a fun experience if you use `dbt-sugar`
+## Documenting your dbt projects and keeping them consistent is now a fun experience if you use `dbt-sugar`
 
 ### What is dbt-sugar?
 
@@ -74,8 +74,8 @@ In this case, the unique test **failed** so it was not added and `dbt-sugar` tol
 
 ## Want to start using it?
 
-- dbt-sugar is currently able to talk to **Snowflake** and **Postgres** databases and is extensible to work for most other major databases (feel free to [get inlvoved if you have access to such other databases](#want-to-get-involved-in-the-development)).
-- dbt-sugar is **really easy to configure** as long as your dbt `profiles.yml` is set up and you have a dbt project running all you need to do is **add a minimal set of config options**, which we call `syrup` (cos it's sweet) that looks like this:
+- dbt-sugar is currently able to talk to **Snowflake** and **Postgres** databases and is extensible to work with most other major databases (feel free to [get inlvoved if you have access to such other databases](#want-to-get-involved-in-the-development)).
+- dbt-sugar is **really easy to configure** as long as your dbt `profiles.yml` is set up and you have a dbt project running. All you need to do is **add a minimal set of config options**, which we call `syrup` (cos it's sweet) that looks like this:
 
 ```yaml
 defaults:
