@@ -6,14 +6,16 @@
     <description>Recent content on Bastien Boutonnet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 19:36:58 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Mar 2021 14:28:18 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Documenting with dbt-sugar</title>
-      <link>/posts/post-1/</link>
-      <pubDate>Fri, 12 Feb 2021 19:36:58 +0100</pubDate>
+      <title>Document dbt Models the easy way with dbt-sugar</title>
+      <link>/posts/document-dbt-models-with-dbt-sugar/</link>
+      <pubDate>Fri, 26 Mar 2021 14:28:18 +0100</pubDate>
       
-      <guid>/posts/post-1/</guid>
-      <description>Coming soon</description>
+      <guid>/posts/document-dbt-models-with-dbt-sugar/</guid>
+      <description>NOTE: This tool is still pretty new and in alpha/beta stage, but we think you can start testing it and helping us making it better along the way.
+ Contribute on GitHub Become part of the community by joining our Discord server  Would you like your documentation workflow to look something like this? Now it&amp;rsquo;s possible with dbt-sugar
+If you&amp;rsquo;re a user of dbt chances are you&amp;rsquo;re already are on a great path to making your data team successful at iterating and serving analytical value to your business.</description>
     </item>
     
     <item>
