@@ -2,6 +2,11 @@
 title: "Document dbt Models the easy way with dbt-sugar"
 date: 2021-03-26T14:28:18+01:00
 draft: false
+tags:
+  - open source
+  - data engineering
+  - dbt
+  - documentation
 ---
 
 Would you like your documentation workflow to look something like this? Now it's possible with [dbt-sugar](https://bitpicky.gitbook.io/dbt-sugar/)
