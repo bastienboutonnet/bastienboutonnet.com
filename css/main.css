@@ -26,7 +26,7 @@ body {
 }
 
 p {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   line-height: 1.5;
 }
 
@@ -69,6 +69,14 @@ ul li::before {
 img {
   max-width: 100%;
 }
+  
+img[src$='#center'] {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
 
 figure {
   box-sizing: border-box;
