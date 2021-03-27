@@ -1,7 +1,7 @@
 ---
 title: "How to Stay on Top of Slack?"
 date: 2021-03-27T09:34:14+01:00
-draft: true
+draft: false
 tags:
   - slack
   - productivity
