@@ -71,7 +71,7 @@ We mentioned it [earlier](#why-is-slack-a-nightmare) notifications are energy an
 
 - **DnD is not just for me**. It's helpful to my colleagues. When I use the DnD mode on Slack, a little `z` appears next to my status icon and helped my colleagues know I may not get to their messages right-away. I'm big on transparency! (I'll write about this in the not too distant future).
 
-![slack do not disappointed](/img/slack-post/dnd-slack-icon.png#center "what DnD looks like")
+![slack do not disappointed](/img/slack-post/dnd-slack-icon.png#center "what it looks like when you're in DnD")
 
 - I still want to know that stuff is going on. I want to know which channels have new conversations, so I DO want slack to make it visually clear to me.
 
