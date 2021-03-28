@@ -31,7 +31,7 @@ Slack's layout makes us feel that if we don't attend to every conversation **rig
 
 **The notifications...** That's another evil thing about Slack. I'm not breaking any new grounds here, notifications are both addictive and anxiety-provoking. There's already a lot written about this already (here's a [good article](https://blog.hubspot.com/marketing/are-notifications-driving-us-crazy) to start with). **If you treat slack as a synchronous medium it means you're constantly context switching.** Some people are great at it, but they're a minority. No matter how young, old, used to tech and so on you think or feel you are, it's been [shown](http://erichorvitz.com/CHI_2007_Iqbal_Horvitz.pdf) that it takes on average 25 minutes to get back into a task after an interruption.
 
-Imagine getting interrupted, say, 10 times in a day (I think that's reasonable) that's close to loosing 4 hours of your day. That's 50% of an 8hours workday! **Here's your second mind shift**: regularly turn off notifications or put yourself in "Do Not Disturb" Mode. We'll come back to this later in the [how to section](#2-turn-off-those-damn-notifications)
+Imagine getting interrupted, say, 10 times in a day (I think that's reasonable) that's close to loosing 4 hours of your day. That's 50% of an 8hours workday! **Here's your second mind shift**: regularly turn off notifications or put yourself in "Do Not Disturb" Mode. We'll come back to this later in the [how to section](#2-turn-off-those-damn-notifications).
 
 ## The consequences
 
