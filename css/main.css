@@ -77,12 +77,13 @@ img[src$='#center'] {
   	width: 50%;
 }
 
-
 figure {
   box-sizing: border-box;
-  display: inline-block;
-  margin: 0;
-  max-width: 100%;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 12px;
 }
 
 figure img {
