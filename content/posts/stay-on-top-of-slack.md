@@ -97,7 +97,7 @@ Even if you're all planned, etc. **You're human**. You'll want to check Slack at
 
 No! It's not ok. That will make you a shit colleague because you'll miss things. **But, you can use the reminder Slack function** You're human and your brain can be used for better things than remembering you need to get back to a message or read it carefully and act on it. Use your "external" brain. In that case Slackbot is. **Click on the 3 stacked dots on any message and choose "Remind me about this"**
 
-![slack reminder flow](/img/slack-post/reminder-flow.gif#center)
+![slack reminder flow](/img/slack-post/reminder-flow.gif#center "adding a reminder in Slack")
 
 **Choose your reminder time wisely!** If you make Slack remind you too often you'll get annoyed. If you make it not often enough you might react too late. Here's what I typically do:
 
@@ -111,7 +111,7 @@ Once you've done that you can go back to your task knowing you won't forget. It'
 
 Slackbot will remind you of the messages you set reminders for.
 
-![slackbot reminder message](/img/slack-post/slackbot-reminder.png#center)
+![slackbot reminder message](/img/slack-post/slackbot-reminder.png#center "a reminder message from Slackbot")
 
 If now is still not a good time, snooze the reminder. If it looks like you will not get to something you thought you would get to **today** make it go to **tomorrow**. If you're nearing the end of the day and you still need to be reminded choose **1 hour** or **20 minutes** but be careful not to make is annoying for you.
 
