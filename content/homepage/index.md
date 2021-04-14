@@ -4,7 +4,7 @@ date: 2021-04-01T19:36:58+01:00
 draft: false
 ---
 
-I'm Bastien Boutonnet, a lead data scientist at [soda.io](https://www.soda.io/) and an Amsterdam resident.
+I'm Bastien Boutonnet, I work as Lead Data Scientist at [soda.io](https://www.soda.io/) and am an Amsterdam resident.
 
 I like to build and maintain open-source projects and tools for data practitioners, which I mostly do under the [bitpicky](http://github.com/bitpicky) umbrella.
 
