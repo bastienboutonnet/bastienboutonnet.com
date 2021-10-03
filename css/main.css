@@ -1,6 +1,6 @@
 /* Markdown */
 :root {
-  --maincolor: rgb(153, 98, 243);
+  --maincolor: rgb(247, 190, 240);
   /* --maincolor: red; */
   --bordercl: rebeccapurple;
   --callouctcolor: dodgerblue;
@@ -8,7 +8,7 @@
   --darkMaincolor: #50fa7b;
 }
 html {
-  color: #232333;
+  color: rgb(50, 132, 199);
   font-family: "Roboto Mono", monospace;
   font-size: 15px;
   line-height: 1.6em;
@@ -70,7 +70,7 @@ ul li::before {
 img {
   max-width: 100%;
 }
-  
+
 img[src$='#center'] {
 	display: block;
   	margin-left: auto;
