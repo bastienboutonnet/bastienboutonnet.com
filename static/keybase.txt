@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bastienboutonnet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bastienboutonnet.com
+  * I am bastienboutonnet (https://keybase.io/bastienboutonnet) on keybase.
+  * I have a public key ASCwqUp2szHF7nbs3DM300Hcmvn-mhDMWssLClPosIYICwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b91aa5a3a8a1f862d49fb38b332eb6c4aa91f8249fe99217651331849c9a50e10a",
+      "host": "keybase.io",
+      "kid": "0120b0a94a76b331c5ee76ecdc3337d341dc9af9fe9a10cc5acb0b0a53e8b086080b0a",
+      "uid": "7ec29ea0a05230ca75a19e68afa71219",
+      "username": "bastienboutonnet"
+    },
+    "merkle_root": {
+      "ctime": 1633420644,
+      "hash": "8db06e2508930ee3997073adc4589f4188907fd80d1c0ef22909bd9a232744895960465d42796d932f9613e19c415d5c3f6f03593980dbd4140d969d078517c4",
+      "hash_meta": "3118752b9861ed172288cd4d506f82dbf27661eb5f9d717e3bfab6b935096131",
+      "seqno": 20915209
+    },
+    "service": {
+      "entropy": "+EVdO1qy+RynhiaRJCH8OZm/",
+      "hostname": "www.bastienboutonnet.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1633420730,
+  "expire_in": 504576000,
+  "prev": "06e5a3b14c304c0f0f2a1d35302bc8be8569ba0a0f435ae7c8c0514f0a45f6a4",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsKlKdrMxxe527NwzN9NB3Jr5/poQzFrLCwpT6LCGCAsKp3BheWxvYWTESpcCD8QgBuWjsUwwTA8PKh01MCvIvoVpugoPQ1rnyMBRTwpF9qTEILXk3eY04O9KwE67Lpg9rNyowQ0XeigKdD9z3TWaKTKNAgHCo3NpZ8RAw2paInkO0WAPcvBryL48Xgt/nDZy937UE12c7fIPLfcNrBh8blrIrYnEOXGYZP0XuMSqAenlV690EejXc55LCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMHG8x9vvCE27/MyhZGpZbKFN96cZblztSVIMmsMv99io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bastienboutonnet
+
+==================================================================
