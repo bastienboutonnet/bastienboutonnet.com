@@ -20,4 +20,4 @@ When I don't write code, I produce music under several aliases one of which is [
 - Resident Advisor: [@accuraat](https://ra.co/dj/accuraat) Where I wear my DJ hat.
 - SoundCloud: [@accuraat](https://soundcloud.com/accuraat) You can find some of the music I make here.
 - Instagram: [@bastien_superhero](https://www.instagram.com/bastien_superhero/) Yes, for when I don't write code.
-- Email: [Bastien Boutonnet](mailto:hello@bastienboutonnet.com) For the nostalgics among us.
+- Email: [Bastien Boutonnet](mailto:bastien.b@hey.com) For the nostalgics among us.
