@@ -4,11 +4,11 @@ date: 2021-04-01T19:36:58+01:00
 draft: false
 ---
 
-I'm Bastien Boutonnet, I work as Lead Data Scientist at [soda.io](https://www.soda.io/) and am an Amsterdam resident.
+I'm Bastien Boutonnet, I lead the Intelligence & Automation Product Research team at [soda.io](https://www.soda.io/) and am an Amsterdam resident.
 
 I like to build and maintain open-source projects and tools for data practitioners, which I mostly do under the [bitpicky](http://github.com/bitpicky) umbrella.
 
-When I don't write code, I produce music under several aliases one of which is [accuraat](http://accuraatmusic.nl/) and play other people's music to other dancing people in clubs (well, before there was a pandemic that is).
+When I don't write code, I produce music under several aliases one of which is [accuraat](http://accuraatmusic.nl/) and sometimes play other people's music to other dancing people in clubs.
 
 ## THE SOCIALS
 
